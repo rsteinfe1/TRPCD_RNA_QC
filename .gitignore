@@ -1,5 +1,5 @@
 ##Visual Studio files
-*.code-workspace
+.code-workspace
 
 # History files
 .Rhistory
