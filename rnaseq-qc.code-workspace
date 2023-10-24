@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"githubPullRequests.remotes": [
+			"rsteinfe1/TRPCD_RNA_QC"
+		]
+	}
+}
